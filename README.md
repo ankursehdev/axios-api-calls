@@ -1,3 +1,10 @@
+## Multiple API Calls in React using AXIOS with Loading and Error Handling 🔥
+
+
+## DEMO
+
+Check Demo here: [https://codesandbox.io/s/dark-dust-2imnx?fontsize=14](https://codesandbox.io/s/dark-dust-2imnx?fontsize=14)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
